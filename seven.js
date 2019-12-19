@@ -45,7 +45,7 @@ class SevenHTTP {
       return resData;
     }
   
-    // Make an HTTP DELETE Request
+    // Make an HTTP DELETE Request.
     async delete(url) {
       const response = await fetch(url, {
         method: 'DELETE',
