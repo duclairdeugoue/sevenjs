@@ -31,7 +31,7 @@ class SevenHTTP {
      
     }
   
-     // Make an HTTP PUT Request
+     // Make an HTTP PUT Request.
      async put(url, data) {
       const response = await fetch(url, {
         method: 'PUT',
