@@ -27,7 +27,7 @@ class SevenHTTP {
       });
   
       const resData = await response.json();
-      return resData;
+      return resData;   
       
     }  
     
