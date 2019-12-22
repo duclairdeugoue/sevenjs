@@ -35,7 +35,7 @@ class SevenHTTP {
      async put(url, data) {
       const response = await fetch(url, {  
         method: 'PUT',     
-        headers: { 
+        headers: {  
           'Content-type': 'application/json' 
         },
         body: JSON.stringify(data)
