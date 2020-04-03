@@ -2,7 +2,7 @@
  * Seven Js Library
  * Library for making HTTP requests.
  
- * @version 3.0.0
+ * @version 1.0.0
  * @author  Donacien
  * @license SevenAcademy
  
