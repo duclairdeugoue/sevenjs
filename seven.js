@@ -53,7 +53,7 @@ class SevenHTTP {
           'Content-type': 'application/json'
         }
       });
-  
+      
       const resData = await 'Resource Deleted...';
       return resData;
     }
