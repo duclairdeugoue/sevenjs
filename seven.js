@@ -4,6 +4,7 @@
  
  * @version 1.0.0
  * @author  Donacien
+ * @contributor Double_D
  * @license SevenAcademy
  
  **/
